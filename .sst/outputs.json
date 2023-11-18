@@ -2,5 +2,11 @@
   "rudijs-notes-StorageStack": {},
   "rudijs-notes-ApiStack": {
     "ApiEndpoint": "https://wrd1y1z39c.execute-api.ap-southeast-1.amazonaws.com"
+  },
+  "rudijs-notes-AuthStack": {
+    "UserPoolClientId": "6aondhc70i221e28qggcpldqid",
+    "UserPoolId": "ap-southeast-1_micJvfGPX",
+    "Region": "ap-southeast-1",
+    "IdentityPoolId": "ap-southeast-1:d15cf3ad-b4f7-43d0-b7c5-100f607d0c38"
   }
 }
