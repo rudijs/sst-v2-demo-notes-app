@@ -1,3 +1,6 @@
 {
-  "rudijs-notes-StorageStack": {}
+  "rudijs-notes-StorageStack": {},
+  "rudijs-notes-ApiStack": {
+    "ApiEndpoint": "https://wrd1y1z39c.execute-api.ap-southeast-1.amazonaws.com"
+  }
 }

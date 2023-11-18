@@ -24,3 +24,12 @@ declare module "sst/node/bucket" {
   }
 }
 
+import "sst/node/api";
+declare module "sst/node/api" {
+  export interface ApiResources {
+    "Api": {
+      url: string;
+    }
+  }
+}
+
