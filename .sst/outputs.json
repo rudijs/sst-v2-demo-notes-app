@@ -1,5 +1,3 @@
 {
-  "rudijs-notes-API": {
-    "ApiEndpoint": "https://vn4dx9hvch.execute-api.ap-southeast-1.amazonaws.com"
-  }
+  "rudijs-notes-StorageStack": {}
 }
